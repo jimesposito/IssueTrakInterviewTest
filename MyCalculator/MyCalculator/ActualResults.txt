@@ -1,0 +1,55 @@
+
+C:\Users\JEsposito\source\repos\MyCalculator\MyCalculator>bin\release\MyCalculator
+The application is expecting a formula to calculate.
+Use '*' for multiplication, '/' for division, '+' for addition and '-' for subtraction.
+The application follows the standard order of operation which is left to right, multiplication and division first, addition and subtraction last.
+
+C:\Users\JEsposito\source\repos\MyCalculator\MyCalculator>bin\release\MyCalculator * 
+Your formula is in the wrong format. It must start and end with a valid number and each number must be separated by a valid operand.
+Use '*' for multiplication, '/' for division, '+' for addition and '-' for subtraction.
+The application follows the standard order of operation which is left to right, multiplication and division first, addition and subtraction last.
+
+C:\Users\JEsposito\source\repos\MyCalculator\MyCalculator>bin\release\MyCalculator 1+a*1 
+Your formula is in the wrong format. It must start and end with a valid number and each number must be separated by a valid operand.
+Use '*' for multiplication, '/' for division, '+' for addition and '-' for subtraction.
+The application follows the standard order of operation which is left to right, multiplication and division first, addition and subtraction last.
+
+C:\Users\JEsposito\source\repos\MyCalculator\MyCalculator>bin\release\MyCalculator 1+*5 
+Your formula is in the wrong format. It must start and end with a valid number and each number must be separated by a valid operand.
+Use '*' for multiplication, '/' for division, '+' for addition and '-' for subtraction.
+The application follows the standard order of operation which is left to right, multiplication and division first, addition and subtraction last.
+
+C:\Users\JEsposito\source\repos\MyCalculator\MyCalculator>bin\release\MyCalculator 10+(15*2) 
+The current version of the calculator doesn't support parenthesis to dictate order of operation.
+Use '*' for multiplication, '/' for division, '+' for addition and '-' for subtraction.
+The application follows the standard order of operation which is left to right, multiplication and division first, addition and subtraction last.
+
+C:\Users\JEsposito\source\repos\MyCalculator\MyCalculator>bin\release\MyCalculator 10/0 
+This calculation contains an invalid divide by 0.  Process terminated.
+
+C:\Users\JEsposito\source\repos\MyCalculator\MyCalculator>bin\release\MyCalculator 10/10*0 
+10/10*0 = 0
+
+C:\Users\JEsposito\source\repos\MyCalculator\MyCalculator>bin\release\MyCalculator 10+15 
+10+15 = 25
+
+C:\Users\JEsposito\source\repos\MyCalculator\MyCalculator>bin\release\MyCalculator 10 +15 
+10+15 = 25
+
+C:\Users\JEsposito\source\repos\MyCalculator\MyCalculator>bin\release\MyCalculator 10+15*2 
+10+15*2 = 40
+
+C:\Users\JEsposito\source\repos\MyCalculator\MyCalculator>bin\release\MyCalculator 10*15+2+10/2 
+10*15+2+10/2 = 157
+
+C:\Users\JEsposito\source\repos\MyCalculator\MyCalculator>bin\release\MyCalculator 450/15*20+1350-5*6 
+450/15*20+1350-5*6 = 1920
+
+C:\Users\JEsposito\source\repos\MyCalculator\MyCalculator>bin\release\MyCalculator 420/6*10-123*4 
+420/6*10-123*4 = 208
+
+C:\Users\JEsposito\source\repos\MyCalculator\MyCalculator>bin\release\MyCalculator 420.5/6.2*10.3-123.7*4.8 
+420.5/6.2*10.3-123.7*4.8 = 104.812580645161
+
+C:\Users\JEsposito\source\repos\MyCalculator\MyCalculator>bin\release\MyCalculator 999999999999*999999999999 
+999999999999*999999999999 = 9.99999999998E+23

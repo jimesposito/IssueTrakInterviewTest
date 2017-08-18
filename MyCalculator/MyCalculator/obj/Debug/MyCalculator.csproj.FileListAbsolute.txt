@@ -1,0 +1,26 @@
+C:\svn\MZB\MyCalculator\MyCalculator\bin\Debug\MyCalculator.exe.config
+C:\svn\MZB\MyCalculator\MyCalculator\obj\Debug\MyCalculator.csprojResolveAssemblyReference.cache
+C:\svn\MZB\MyCalculator\MyCalculator\bin\Debug\MyCalculator.exe
+C:\svn\MZB\MyCalculator\MyCalculator\bin\Debug\MyCalculator.pdb
+C:\svn\MZB\MyCalculator\MyCalculator\obj\Debug\MyCalculator.exe
+C:\svn\MZB\MyCalculator\MyCalculator\obj\Debug\MyCalculator.pdb
+C:\Users\JEsposito\Documents\Visual Studio 2012\Projects\MyCalculator\MyCalculator\bin\Debug\MyCalculator.exe.config
+C:\Users\JEsposito\Documents\Visual Studio 2012\Projects\MyCalculator\MyCalculator\obj\Debug\MyCalculator.exe
+C:\Users\JEsposito\Documents\Visual Studio 2012\Projects\MyCalculator\MyCalculator\obj\Debug\MyCalculator.pdb
+C:\Users\JEsposito\Documents\Visual Studio 2012\Projects\MyCalculator\MyCalculator\bin\Debug\MyCalculator.exe
+C:\Users\JEsposito\Documents\Visual Studio 2012\Projects\MyCalculator\MyCalculator\bin\Debug\MyCalculator.pdb
+C:\Users\JEsposito\Documents\Visual Studio 2012\Projects\MyCalculator\MyCalculator\obj\Debug\MyCalculator.csprojResolveAssemblyReference.cache
+F:\MyCalculator\MyCalculator\obj\Debug\MyCalculator.csproj.CoreCompileInputs.cache
+F:\MyCalculator\MyCalculator\obj\Debug\MyCalculator.exe
+F:\MyCalculator\MyCalculator\obj\Debug\MyCalculator.pdb
+F:\MyCalculator\MyCalculator\bin\Debug\MyCalculator.exe.config
+F:\MyCalculator\MyCalculator\bin\Debug\MyCalculator.exe
+F:\MyCalculator\MyCalculator\bin\Debug\MyCalculator.pdb
+F:\MyCalculator\MyCalculator\obj\Debug\MyCalculator.csprojResolveAssemblyReference.cache
+C:\Users\JEsposito\source\repos\MyCalculator\MyCalculator\bin\Debug\MyCalculator.exe.config
+C:\Users\JEsposito\source\repos\MyCalculator\MyCalculator\bin\Debug\MyCalculator.exe
+C:\Users\JEsposito\source\repos\MyCalculator\MyCalculator\bin\Debug\MyCalculator.pdb
+C:\Users\JEsposito\source\repos\MyCalculator\MyCalculator\obj\Debug\MyCalculator.csprojResolveAssemblyReference.cache
+C:\Users\JEsposito\source\repos\MyCalculator\MyCalculator\obj\Debug\MyCalculator.csproj.CoreCompileInputs.cache
+C:\Users\JEsposito\source\repos\MyCalculator\MyCalculator\obj\Debug\MyCalculator.exe
+C:\Users\JEsposito\source\repos\MyCalculator\MyCalculator\obj\Debug\MyCalculator.pdb
